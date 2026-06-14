@@ -4,7 +4,7 @@
 
 ## 安装方法
 
-将 `lubai-qimen.skill` 下载后解压到 `.claude/skills/lubai-qimen/` 目录：
+将 `lubai-qimen skill.zip` 下载后解压到 `.claude/skills/lubai-qimen/` 目录：
 
 ```bash
 unzip lubai-qimen.skill -d ~/.claude/skills/lubai-qimen/
