@@ -7,7 +7,7 @@
 将 `lubai-qimen skill.zip` 下载后解压到 `.claude/skills/lubai-qimen/` 目录：
 
 ```bash
-unzip lubai-qimen.skill -d ~/.claude/skills/lubai-qimen/
+unzip lubai-qimen skill.zip -d ~/.claude/skills/lubai-qimen/
 ```
 
 或在 Claude Code 中直接使用 `/lubai-qimen` 触发。
