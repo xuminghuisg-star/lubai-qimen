@@ -1,4 +1,4 @@
-# 麓白奇门 — lubai-qimen
+# 渌白奇门 — lubai-qimen
 
 通用奇门遁甲助手，适用于 Claude Code。
 
